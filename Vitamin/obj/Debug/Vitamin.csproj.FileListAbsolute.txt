@@ -1,0 +1,18 @@
+c:\users\ssg\documents\visual studio 2015\Projects\Vitamin\Vitamin\bin\Debug\Vitamin.exe.config
+c:\users\ssg\documents\visual studio 2015\Projects\Vitamin\Vitamin\bin\Debug\Vitamin.exe
+c:\users\ssg\documents\visual studio 2015\Projects\Vitamin\Vitamin\bin\Debug\Vitamin.pdb
+c:\users\ssg\documents\visual studio 2015\Projects\Vitamin\Vitamin\bin\Debug\Sort.dll
+c:\users\ssg\documents\visual studio 2015\Projects\Vitamin\Vitamin\bin\Debug\Sort.pdb
+c:\users\ssg\documents\visual studio 2015\Projects\Vitamin\Vitamin\obj\Debug\Vitamin.csprojResolveAssemblyReference.cache
+c:\users\ssg\documents\visual studio 2015\Projects\Vitamin\Vitamin\obj\Debug\Vitamin.exe
+c:\users\ssg\documents\visual studio 2015\Projects\Vitamin\Vitamin\obj\Debug\Vitamin.pdb
+C:\Users\Bryan\Documents\GitHub\Vitamin\Vitamin\bin\Debug\Vitamin.exe.config
+C:\Users\Bryan\Documents\GitHub\Vitamin\Vitamin\obj\Debug\Vitamin.exe
+C:\Users\Bryan\Documents\GitHub\Vitamin\Vitamin\obj\Debug\Vitamin.pdb
+C:\Users\Bryan\Documents\GitHub\Vitamin\Vitamin\bin\Debug\Vitamin.exe
+C:\Users\Bryan\Documents\GitHub\Vitamin\Vitamin\bin\Debug\Vitamin.pdb
+C:\Users\Bryan\Documents\GitHub\Vitamin\Vitamin\bin\Debug\Sort.dll
+C:\Users\Bryan\Documents\GitHub\Vitamin\Vitamin\bin\Debug\Sort.pdb
+C:\Users\Bryan\Documents\GitHub\Vitamin\Vitamin\obj\Debug\Vitamin.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\Vitamin\Vitamin\bin\Debug\Search.dll
+C:\Users\Bryan\Documents\GitHub\Vitamin\Vitamin\bin\Debug\Search.pdb

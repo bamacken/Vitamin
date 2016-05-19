@@ -1,0 +1,10 @@
+c:\Users\ssg\documents\visual studio 2015\Projects\Vitamin\Sort\bin\Debug\Sort.dll
+c:\Users\ssg\documents\visual studio 2015\Projects\Vitamin\Sort\bin\Debug\Sort.pdb
+c:\Users\ssg\documents\visual studio 2015\Projects\Vitamin\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+c:\Users\ssg\documents\visual studio 2015\Projects\Vitamin\Sort\obj\Debug\Sort.dll
+c:\Users\ssg\documents\visual studio 2015\Projects\Vitamin\Sort\obj\Debug\Sort.pdb
+C:\Users\Bryan\Documents\GitHub\Vitamin\Sort\bin\Debug\Sort.dll
+C:\Users\Bryan\Documents\GitHub\Vitamin\Sort\bin\Debug\Sort.pdb
+C:\Users\Bryan\Documents\GitHub\Vitamin\Sort\obj\Debug\Sort.dll
+C:\Users\Bryan\Documents\GitHub\Vitamin\Sort\obj\Debug\Sort.pdb
+C:\Users\Bryan\Documents\GitHub\Vitamin\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache

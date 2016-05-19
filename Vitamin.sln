@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vitamin", "Vitamin\Vitamin.csproj", "{35426B7F-29A0-4C5C-AC06-B2DF170EBEC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort", "Sort\Sort.csproj", "{7204C58A-548D-4835-94B1-DDC2E0390DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csproj", "{7AC26CF3-1747-4F8F-BD77-A72B6B6F21EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35426B7F-29A0-4C5C-AC06-B2DF170EBEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35426B7F-29A0-4C5C-AC06-B2DF170EBEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35426B7F-29A0-4C5C-AC06-B2DF170EBEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35426B7F-29A0-4C5C-AC06-B2DF170EBEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7204C58A-548D-4835-94B1-DDC2E0390DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7204C58A-548D-4835-94B1-DDC2E0390DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7204C58A-548D-4835-94B1-DDC2E0390DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7204C58A-548D-4835-94B1-DDC2E0390DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC26CF3-1747-4F8F-BD77-A72B6B6F21EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC26CF3-1747-4F8F-BD77-A72B6B6F21EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC26CF3-1747-4F8F-BD77-A72B6B6F21EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC26CF3-1747-4F8F-BD77-A72B6B6F21EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
