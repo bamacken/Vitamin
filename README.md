@@ -14,7 +14,7 @@ Sorting
 -Quick3 (variation of Quicksort)
 
 Searching
--Divide and Conquer
+-Binary search
 
 Recursion
 
