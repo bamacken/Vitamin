@@ -1,5 +1,6 @@
 # Vitamin
 healthy for you - data structure and algorithm knowledge
+
 Deep dive on content: http://bmackenzie.github.io/Vitamin
 
 Currently implemented solutions:
