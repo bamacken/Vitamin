@@ -1,26 +1,16 @@
 # Vitamin
-healthy for you - data structure and algorithm knowledge
-
-Deep dive on content: http://bmackenzie.github.io/Vitamin
-
-Currently implemented solutions:
+healthy dose of data structures and algorithms. Below is a list of the currently implemented solutions. To get a better understanding, there is a write of the content here: http://bmackenzie.github.io/Vitamin
 
 **Sorting Algorithms:**
-
   - InsertionSort
-
   - SelectionSort
-
   - BubbleSort
-
   - QuickSort
 
 **Searching Algorithms:**
-
   - Binary search
-
   - Sequential
-
+  
 **Data Structures:**
   - Hashtable
   - Graph (in progress)
