@@ -65,11 +65,20 @@ namespace Algorithms
                     hash = (hash + 1) % capacity;
                 }
                 hashtable[hash] = new Item(key, value);
+                Console.WriteLine("Hashtable inserted " + key + " at hash index " + hash);
             }
         }
 
-        // search
-
+        // delete
+        public void remove(string key)
+        {
+            int hash = Hash(key);
+            while (hashtable[hash].getKey() == key)
+            {
+                hashtable[hash] = new Item("open", null);
+                Console.WriteLine("Hashtable removed " + key + " at hash index " + hash);
+            }
+        }
 
         public class Item
         {

@@ -12,7 +12,10 @@ namespace Vitamin
         static void Main(string[] args)
         {
             //Hashtable test
+            // create isntance
             Hashtable hash = new Hashtable(300);
+
+            // add to table
             hash.Insert("Bryan", 43);
             hash.Insert("Maddy", 30);
             hash.Insert("Charlie", 9);
@@ -20,7 +23,10 @@ namespace Vitamin
             hash.Insert("Ryan", 50);
             hash.Insert("Bryant", 50);
 
-            //Input 
+            // remove from table
+            hash.remove("Bryan");
+
+            // Sort search Input data
             int[] input = { 59, 27, 0, 57, 46, 80, 48, 32, 86, 23, 19, 13, 93, 42, 41, 26, 33, 90, 12, 22 };
 
             Sort sort = new Sort();
