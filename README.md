@@ -20,6 +20,8 @@ A healthy dose of data structures and algorithms. Below is a list of the current
 **Data Structures:**
   - Array
   - Linked List
+  - Queue
+  - Stack
   - Hashtable
   - Binary Tree (in progress)
   - Graph (in progress)
