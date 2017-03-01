@@ -16,8 +16,10 @@ healthy dose of data structures and algorithms. Below is a list of the currently
   - Depth First Search (once graphs have been implemented)
   - Breadth First Search (once graphs have been implemented)
   - Dijkstra Search (once graphs have been implemented)
-  
+
 **Data Structures:**
+  - Array
+  - Linked List
   - Hashtable
-  - Graph (in progress)
   - Binary Tree (in progress)
+  - Graph (in progress)
