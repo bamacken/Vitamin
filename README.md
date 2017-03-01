@@ -5,15 +5,23 @@ Deep dive on content: http://bmackenzie.github.io/Vitamin
 
 Currently implemented solutions:
 
-Sorting Algorithms
--InsertionSort
--SelectionSort
--BubbleSort
--QuickSort
+**Sorting Algorithms:**
 
-Searching Algorithms
--Binary search
--Sequential
+  - InsertionSort
 
-Data Structures
--in progress
+  - SelectionSort
+
+  - BubbleSort
+
+  - QuickSort
+
+**Searching Algorithms:**
+
+  - Binary search
+
+  - Sequential
+
+**Data Structures:**
+  - Hashtable
+  - Graph (in progress)
+  - Binary Tree (in progress)
