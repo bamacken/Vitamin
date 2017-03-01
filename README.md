@@ -6,10 +6,16 @@ healthy dose of data structures and algorithms. Below is a list of the currently
   - SelectionSort
   - BubbleSort
   - QuickSort
+  - Heapsort (in progress)
+  - MergeSort (in progress)
 
 **Searching Algorithms:**
   - Binary search
-  - Sequential
+  - Sequential search
+  - A* Search (once graphs have been implemented)
+  - Depth First Search (once graphs have been implemented)
+  - Breadth First Search (once graphs have been implemented)
+  - Dijkstra Search (once graphs have been implemented)
   
 **Data Structures:**
   - Hashtable
