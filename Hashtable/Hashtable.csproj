@@ -4,17 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{35426B7F-29A0-4C5C-AC06-B2DF170EBEC2}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{0CF2FB40-F42C-4F27-8B21-24CAB3DC48E2}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Vitamin</RootNamespace>
-    <AssemblyName>Vitamin</AssemblyName>
+    <RootNamespace>Hashtable</RootNamespace>
+    <AssemblyName>Hashtable</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -43,25 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Hashtable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Hashtable\Hashtable.csproj">
-      <Project>{0cf2fb40-f42c-4f27-8b21-24cab3dc48e2}</Project>
-      <Name>Hashtable</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Search\Search.csproj">
-      <Project>{7ac26cf3-1747-4f8f-bd77-a72b6b6f21ef}</Project>
-      <Name>Search</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Sort\Sort.csproj">
-      <Project>{7204c58a-548d-4835-94b1-ddc2e0390db8}</Project>
-      <Name>Sort</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

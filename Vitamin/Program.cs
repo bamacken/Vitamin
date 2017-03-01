@@ -11,6 +11,15 @@ namespace Vitamin
     {
         static void Main(string[] args)
         {
+            //Hashtable test
+            Hashtable hash = new Hashtable(300);
+            hash.Insert("Bryan", 43);
+            hash.Insert("Maddy", 30);
+            hash.Insert("Charlie", 9);
+            hash.Insert("Bob", 50);
+            hash.Insert("Ryan", 50);
+            hash.Insert("Bryant", 50);
+
             //Input 
             int[] input = { 59, 27, 0, 57, 46, 80, 48, 32, 86, 23, 19, 13, 93, 42, 41, 26, 33, 90, 12, 22 };
 

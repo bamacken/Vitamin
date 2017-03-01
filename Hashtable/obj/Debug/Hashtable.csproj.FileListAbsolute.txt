@@ -1,0 +1,5 @@
+C:\Users\bamacken\Documents\GitHub\Vitamin\Hashtable\bin\Debug\Hashtable.dll
+C:\Users\bamacken\Documents\GitHub\Vitamin\Hashtable\bin\Debug\Hashtable.pdb
+C:\Users\bamacken\Documents\GitHub\Vitamin\Hashtable\obj\Debug\Hashtable.dll
+C:\Users\bamacken\Documents\GitHub\Vitamin\Hashtable\obj\Debug\Hashtable.pdb
+C:\Users\bamacken\Documents\GitHub\Vitamin\Hashtable\obj\Debug\Hashtable.csprojResolveAssemblyReference.cache

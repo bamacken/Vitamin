@@ -8,3 +8,7 @@ C:\Users\Bryan\Documents\GitHub\Vitamin\Sort\bin\Debug\Sort.pdb
 C:\Users\Bryan\Documents\GitHub\Vitamin\Sort\obj\Debug\Sort.dll
 C:\Users\Bryan\Documents\GitHub\Vitamin\Sort\obj\Debug\Sort.pdb
 C:\Users\Bryan\Documents\GitHub\Vitamin\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+C:\Users\bamacken\Documents\GitHub\Vitamin\Sort\bin\Debug\Sort.dll
+C:\Users\bamacken\Documents\GitHub\Vitamin\Sort\bin\Debug\Sort.pdb
+C:\Users\bamacken\Documents\GitHub\Vitamin\Sort\obj\Debug\Sort.dll
+C:\Users\bamacken\Documents\GitHub\Vitamin\Sort\obj\Debug\Sort.pdb

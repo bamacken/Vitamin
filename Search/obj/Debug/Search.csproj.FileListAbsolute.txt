@@ -3,3 +3,7 @@ C:\Users\Bryan\Documents\GitHub\Vitamin\Search\bin\Debug\Search.pdb
 C:\Users\Bryan\Documents\GitHub\Vitamin\Search\obj\Debug\Search.csprojResolveAssemblyReference.cache
 C:\Users\Bryan\Documents\GitHub\Vitamin\Search\obj\Debug\Search.dll
 C:\Users\Bryan\Documents\GitHub\Vitamin\Search\obj\Debug\Search.pdb
+C:\Users\bamacken\Documents\GitHub\Vitamin\Search\bin\Debug\Search.dll
+C:\Users\bamacken\Documents\GitHub\Vitamin\Search\bin\Debug\Search.pdb
+C:\Users\bamacken\Documents\GitHub\Vitamin\Search\obj\Debug\Search.dll
+C:\Users\bamacken\Documents\GitHub\Vitamin\Search\obj\Debug\Search.pdb
