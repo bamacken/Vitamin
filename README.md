@@ -21,9 +21,9 @@ A healthy dose of data structures and algorithms. Below is a list of the current
 **Searching Algorithms:**
   - Sequential search 
   - Binary Search
-  - A* Search [once graphs have been implemented]
-  - Depth First Search [once graphs have been implemented]
-  - Breadth First Search [once graphs have been implemented]
-  - Dijkstra Search [once graphs have been implemented]
+  - A* Search [Once graphs have been implemented]
+  - Depth First Search [Once graphs have been implemented]
+  - Breadth First Search [Once graphs have been implemented]
+  - Dijkstra Search [Once graphs have been implemented]
 
 
