@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtable", "Hashtable\Hash
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{7ECB59C7-2953-4FBF-B8FC-3C269423FCD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{717FDADC-0AFF-49E2-A61F-180E17F058F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{7ECB59C7-2953-4FBF-B8FC-3C269423FCD1}.Release|x64.Build.0 = Release|Any CPU
 		{7ECB59C7-2953-4FBF-B8FC-3C269423FCD1}.Release|x86.ActiveCfg = Release|Any CPU
 		{7ECB59C7-2953-4FBF-B8FC-3C269423FCD1}.Release|x86.Build.0 = Release|Any CPU
+		{717FDADC-0AFF-49E2-A61F-180E17F058F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717FDADC-0AFF-49E2-A61F-180E17F058F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717FDADC-0AFF-49E2-A61F-180E17F058F1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{717FDADC-0AFF-49E2-A61F-180E17F058F1}.Debug|x64.Build.0 = Debug|Any CPU
+		{717FDADC-0AFF-49E2-A61F-180E17F058F1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{717FDADC-0AFF-49E2-A61F-180E17F058F1}.Debug|x86.Build.0 = Debug|Any CPU
+		{717FDADC-0AFF-49E2-A61F-180E17F058F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717FDADC-0AFF-49E2-A61F-180E17F058F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717FDADC-0AFF-49E2-A61F-180E17F058F1}.Release|x64.ActiveCfg = Release|Any CPU
+		{717FDADC-0AFF-49E2-A61F-180E17F058F1}.Release|x64.Build.0 = Release|Any CPU
+		{717FDADC-0AFF-49E2-A61F-180E17F058F1}.Release|x86.ActiveCfg = Release|Any CPU
+		{717FDADC-0AFF-49E2-A61F-180E17F058F1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
