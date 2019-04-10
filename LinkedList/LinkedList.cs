@@ -67,27 +67,4 @@ namespace DataStructure
             return this.Data;
         }
     }
-
-    /// <summary>
-    /// Node class for doubly linked list
-    /// </summary>
-    public class DoubleNode
-    {
-        private object Data;
-        private DoubleNode NextNode;
-        private DoubleNode PrevNode;
-
-        public DoubleNode(object data, DoubleNode nextNode, DoubleNode prevNode)
-        {
-            this.Data = data;
-            this.NextNode = nextNode;
-            this.PrevNode = prevNode;
-        }
-
-        public object getData()
-        {
-            return this.Data;
-        }
-
-    }
 }
