@@ -1,0 +1,7 @@
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\LinkedList\bin\Debug\LinkedList.dll.config
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\LinkedList\bin\Debug\LinkedList.dll
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\LinkedList\obj\Debug\LinkedList.dll
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\LinkedList\obj\Debug\LinkedList.pdb

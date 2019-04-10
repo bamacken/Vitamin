@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Algorithms;
+using DataStructure;
 
 namespace Vitamin
 {
@@ -11,10 +12,31 @@ namespace Vitamin
     {
         static void Main(string[] args)
         {
+            // LinkedList
+            LinkedList list = new LinkedList(); // Init Linked list
+            list.InsertNode("4"); // Add Node
+            list.InsertNode("5"); // Add Node
+            list.InsertNode("6"); // Add Node
+            list.InsertNode("3"); // Add Node
+            list.InsertNode("7"); // Add Node
+            list.InsertNode("2"); // Add Node
+            list.InsertNode("8"); // Add Node
+            list.InsertNode("1"); // Add Node
+            list.InsertNode("0"); // Add Node
+
+            list.Delete("0"); // Remove Node
+            list.Delete("7"); // Remove Node
+            list.Delete("2"); // Remove Node
+            list.Delete("8"); // Remove Node
+
+            Node node6 = list.Traverse("6"); // Retrieve Node
+            Node node3 = list.Traverse("3"); // Retrieve Node
+
             //Hashtable test
             // create isntance
             Hashtable hash = new Hashtable(300);
 
+            
             // add to table
             hash.Insert("Bryan", 43);
             hash.Insert("Maddy", 30);

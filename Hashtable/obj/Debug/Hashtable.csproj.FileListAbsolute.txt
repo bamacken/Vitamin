@@ -3,3 +3,9 @@ C:\Users\bamacken\Documents\GitHub\Vitamin\Hashtable\bin\Debug\Hashtable.pdb
 C:\Users\bamacken\Documents\GitHub\Vitamin\Hashtable\obj\Debug\Hashtable.dll
 C:\Users\bamacken\Documents\GitHub\Vitamin\Hashtable\obj\Debug\Hashtable.pdb
 C:\Users\bamacken\Documents\GitHub\Vitamin\Hashtable\obj\Debug\Hashtable.csprojResolveAssemblyReference.cache
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\Hashtable\obj\Debug\Hashtable.dll
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\Hashtable\obj\Debug\Hashtable.pdb
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\Hashtable\bin\Debug\Hashtable.dll
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\Hashtable\bin\Debug\Hashtable.pdb
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\Hashtable\obj\Debug\Hashtable.csprojAssemblyReference.cache
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\Hashtable\obj\Debug\Hashtable.csproj.CoreCompileInputs.cache

@@ -7,3 +7,9 @@ C:\Users\bamacken\Documents\GitHub\Vitamin\Search\bin\Debug\Search.dll
 C:\Users\bamacken\Documents\GitHub\Vitamin\Search\bin\Debug\Search.pdb
 C:\Users\bamacken\Documents\GitHub\Vitamin\Search\obj\Debug\Search.dll
 C:\Users\bamacken\Documents\GitHub\Vitamin\Search\obj\Debug\Search.pdb
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\Search\obj\Debug\Search.dll
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\Search\obj\Debug\Search.pdb
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\Search\bin\Debug\Search.dll
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\Search\bin\Debug\Search.pdb
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\Search\obj\Debug\Search.csprojAssemblyReference.cache
+C:\Users\Mackenzie\Documents\GitHub\Vitamin\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache

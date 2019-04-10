@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 //https://gist.github.com/TorinYu/4db15824cc17401941d8
 
-namespace Algorithms
+namespace DataStructure
 {
     public class Hashtable
     {

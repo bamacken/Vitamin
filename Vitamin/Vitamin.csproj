@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Vitamin</RootNamespace>
     <AssemblyName>Vitamin</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -53,6 +54,10 @@
     <ProjectReference Include="..\Hashtable\Hashtable.csproj">
       <Project>{0cf2fb40-f42c-4f27-8b21-24cab3dc48e2}</Project>
       <Name>Hashtable</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LinkedList\LinkedList.csproj">
+      <Project>{7ecb59c7-2953-4fbf-b8fc-3c269423fcd1}</Project>
+      <Name>LinkedList</Name>
     </ProjectReference>
     <ProjectReference Include="..\Search\Search.csproj">
       <Project>{7ac26cf3-1747-4f8f-bd77-a72b6b6f21ef}</Project>

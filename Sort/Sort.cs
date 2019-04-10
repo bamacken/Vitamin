@@ -151,6 +151,16 @@ namespace Algorithms
         {
 
         }
+
+        /// <summary>
+        /// Comment and sort algorithm coming soon
+        /// </summary>
+        /// <param name="items"></param>
+        /// <param name="count"></param>
+        public void MergeSort(int[] items, int count)
+        {
+
+        }
     }
 }
 
